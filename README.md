@@ -233,7 +233,7 @@ Data-Analysis-Python-Project/
 ## Author
 
 - **Name:** Hariharan
-- **Student ID:** [Your Student ID]
+- **Student ID:** AF05311607
 - **Organization:** Anudip Foundation
 - **Course:** AIML
-- **Batch Code:** [Your Batch Code]
+- **Batch Code:** [ANP-D7444]
